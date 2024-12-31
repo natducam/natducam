@@ -1,5 +1,5 @@
 ## **Natifpee Duran Campos** 
-natducam@gmail.com :small_orange_diamond: (+506) 8402 5990 :small_orange_diamond: linkedin.com/in/natducam
+natducam@gmail.com :small_orange_diamond: (+506) 8402 5990 :small_orange_diamond: [linkedin.com/in/natducam](linkedin.com/in/natducam)
 
 ### Technical Skills
 - Proficient: Ptyhon, Git
